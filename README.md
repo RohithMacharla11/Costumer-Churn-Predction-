@@ -1,5 +1,4 @@
-# Costumer-Churn-Predction-
-# Customer Churn Prediction AI/ML Project
+# Costumer-Churn-Predction
 
 ## Overview
 
